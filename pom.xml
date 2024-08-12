@@ -108,7 +108,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Overture Apache Maven Packages</name>
-            <url>https://artifacts.oicr.on.ca/artifactory/dcc-release</url>
+            <url>https://maven.pkg.github.com/overture-stack/aria</url>
         </repository>
     </distributionManagement>
 
