@@ -105,14 +105,9 @@
     </build>
 
     <distributionManagement>
-        <snapshotRepository>
-            <id>dcc-snapshot</id>
-            <name>artifacts.oicr.on.ca-snapshots</name>
-            <url>https://artifacts.oicr.on.ca/artifactory/dcc-snapshot</url>
-        </snapshotRepository>
         <repository>
-            <id>dcc-release</id>
-            <name>artifacts.oicr.on.ca-releases</name>
+            <id>github</id>
+            <name>GitHub Overture Apache Maven Packages</name>
             <url>https://artifacts.oicr.on.ca/artifactory/dcc-release</url>
         </repository>
     </distributionManagement>
